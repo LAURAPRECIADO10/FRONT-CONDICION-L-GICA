@@ -1,0 +1,24 @@
+.colorUno {
+ background-color: #AD2500; /* Example: a blue color */
+}
+
+.colorDos{ background-color:#354970 ;
+}
+
+.colorTres{ background-color: #354970;
+
+}
+
+.fuente {
+  font-family: "Shadows Into Light", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.fondo{background-image: url("../IMG/FOTO\ EOTI.png");
+  background-size: cover;
+  background-position: top center;
+  background-attachment: fixed;
+  padding: 25%;
+
+}
